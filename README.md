@@ -1,4 +1,13 @@
-- 👋 Hi, I’m Pravin.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning **java and python**
-- 📫 you can reach me at pravinadhav4945@gmail.com
+## Hey There! :wave:
+
+I am a **Web Developer**,Interested in development.
+
+## My Skills
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,materialui,git,github)](https://skillicons.dev)
+
+## Contacts
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pravin-adhav-)
+  [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/pravin_0607)
