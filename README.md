@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pravin.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning **java and python**
+- 📫 you can reach me at pravinadhav4945@gmail.com
