@@ -1,6 +1,6 @@
 ## Hey There! I am Pravin. :wave:
 
-I am a **Web Developer**,Interested in development.
+I am a **Software Developer**,Interested in Creating Softwares.
 
 ## My Skills
   
