@@ -1,7 +1,5 @@
 ## Hey There! I am Pravin. :wave:
 
-I am a **Software Developer**,Interested in Creating Softwares.
-
 ## My Skills
   
   [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,php,js)](https://skillicons.dev)
